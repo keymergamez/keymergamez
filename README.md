@@ -3,10 +3,10 @@
 ## ¡Soy desarrolladora Front-end!
 
 - 🔭 Estoy por trabajando en: [Fusion Queen][course]!
-- 🌱 Actualmente estoy aprendiendo todo 🤣
-- 👯 Busco experimentar diferentes tecnologías.
+- 🌱 Actualmente en constante Aprendizaje 🤓
+- 👯 Busco aprender mas de la tecnologia y aportar lo mejor de mi🎯.
 - 🥅 Objetivos 2022: Culminar satisfactoriamente el Bootcamp de Laboratoria.
-- ⚡ Dato curioso: Me gusta Cocinar y viajar.
+- ✨Dato curioso: Me dicen Key😃 Me gusta Cocinar🍰🍪 y viajar🛫🚢.
 
 ### Conectate conmigo:
 
