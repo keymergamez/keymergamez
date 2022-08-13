@@ -1,6 +1,6 @@
-### Hola, Soy Keymer Gamez 👋
+### Hola Mundo 🌎, Soy Keymer Gamez 👋
 
-## ¡Soy desarrolladora Front-end!
+## ¡Iniciando en el desarrollo Front-end en chile!
 
 - 🔭 Estoy por trabajando en: [Fusion Queen][course]!
 - 🌱 Actualmente en constante Aprendizaje 🤓
