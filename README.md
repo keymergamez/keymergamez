@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Estoy por trabajando en: [Fusion Queen][course]!
+- 🔭 Estoy por trabajando en: [Harry Potter][course]!
 - 🌱 Actualmente en constante Aprendizaje 🤓
 - 👯 Busco aprender mas de la tecnologia y aportar lo mejor de mi🎯.
 - 🥅 Objetivos 2022: Culminar satisfactoriamente el Bootcamp de Laboratoria.
