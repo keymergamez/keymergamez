@@ -1,4 +1,4 @@
-### Hola Mundo 🌎, Soy Keymer Gamez 👋
+### Hola Mundo 🌎, Soy Key 👋
 
 
 
@@ -6,7 +6,7 @@
 - 🔭 Estoy por trabajando en: [Harry Potter][course]!
 - 🌱 Actualmente en constante Aprendizaje 🤓
 - 👯 Busco aprender mas de la tecnologia y aportar lo mejor de mi🎯.
-- 🥅 Objetivos 2022: Culminar satisfactoriamente el Bootcamp de Laboratoria.
+- 💻 En busqueda de una oportunidad Laboral.
 - ✨Dato curioso: Me dicen Key😃 Me gusta mucho Cocinar,amo el cafe ☕🍰🍪, y viajar🛫🚢.
 
 ### Conectate conmigo:
